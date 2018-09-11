@@ -1,9 +1,9 @@
 /*
  * math.h
  *
- *  Created on: Aug 22, 2017
- * 	Last Edited: Sept 7, 2018
- *      Author: Russell Trafford
+ * Created on: Aug 22, 2017
+ * Last Edited: Sept 7, 2018
+ * Author: Russell Trafford
  */
 
 /* Your assignment is to take the math function and implement at least the following functions:
